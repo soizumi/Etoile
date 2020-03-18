@@ -1,2 +1,2 @@
-# Oden
-website built with php
+# Etoile
+website built with wordpress
